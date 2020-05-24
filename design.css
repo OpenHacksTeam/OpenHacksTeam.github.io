@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;300&display=swap');
+
+body {
+    background-image: url("https://georgianneblog.files.wordpress.com/2013/02/dsc_00021.jpg"); 
+    opacity: 1;
+}
+
+p {
+    color: #ffffff;  
+    font-family: "Roboto Mono", monospace; 
+    font-weight: bold; 
+}
+
+.title {
+    color: #ffffff; 
+    font-family: "Roboto Mono", monospace; 
+    text-align: center; 
+}
+
+.question {
+    color: #ffffff; 
+    font-family: "Roboto Mono", monospace; 
+    font-weight: bold; 
+    text-align: left; 
+}
+
+.subtitle {
+    color: #ffffff; 
+    font-family: "Roboto Mono", monospace;
+    font-size: 14px;  
+    font-weight: bold; 
+    text-align: center; 
+}
+
+.try {
+    color: #ffffff; 
+    font-family: "Roboto Mono", monospace;  
+}
+
+.ending {
+    color: #ffffff; 
+    font-family: "Roboto Mono", monospace;
+    line-height: 150px; 
+    text-align: center;
+}
+#resume {
+    position: relative; 
+    height: 300px; 
+    width: 500px; 
+}
+
+#btn {
+    margin-top: 100px; 
+}
