@@ -11,16 +11,16 @@ p {
     font-weight: bold; 
 }
 
-a {
-    color: #C0C0C0;  
-    font-family: "Roboto Mono", monospace; 
-    font-weight: bold; 
-}
-
 h2 {
     color: #ffffff; 
     font-family: "Roboto Mono", monospace; 
-    text-align: left;
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff; 
+    font-family: "Roboto Mono", monospace; 
+    font-size: 16px; 
 }
 
 .title {
@@ -55,6 +55,14 @@ h2 {
     line-height: 150px; 
     text-align: center;
 }
+
+.nlp {
+    color: #ffffff; 
+    font-family: "Roboto Mono", monospace; 
+    font-size: 16px; 
+}
+
+
 #resume {
     position: relative; 
     height: 300px; 
@@ -62,38 +70,6 @@ h2 {
 }
 
 #btn {
-    margin-top: 100px; 
-}
-
-
-/* Split the screen in half */
-.split {
-  height: 100%;
-  width: 50%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  overflow-x: hidden;
-  padding-top: 20px;
-}
-
-/* Control the left side */
-.left {
-  left: 0;
-/*   background: rgba(0,0,0,0.5); */
-}
-
-/* Control the right side */
-.right {
-  right: 0;
-/*   background: rgba(0,0,0,0.5); */
-}
-
-/* If you want the content centered horizontally and vertically */
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
+    position: relative; 
+    top: 25px; 
 }
