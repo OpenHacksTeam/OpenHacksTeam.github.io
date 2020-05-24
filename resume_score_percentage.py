@@ -1,12 +1,16 @@
 import spacy
 nlp = spacy.load('en_core_web_sm')
 
+import cgi
+form = cgi.FieldStorage()
+resume =  form.getvalue('searchbox')
 
 while 1==1:
-    resume = input('Resume: ')
+    #resume = input('Resume: ')
     resume_doc = nlp(resume)
 
-    job = input('Job Description: ')
+    #job = input('Job Description: ')
+    job = "hello"
     job_doc = nlp(job)
 
     resKeywords = []
