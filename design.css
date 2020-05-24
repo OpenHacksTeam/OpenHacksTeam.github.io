@@ -11,6 +11,18 @@ p {
     font-weight: bold; 
 }
 
+a {
+    color: #ffffff;  
+    font-family: "Roboto Mono", monospace; 
+    font-weight: bold; 
+}
+
+h2 {
+    color: #ffffff; 
+    font-family: "Roboto Mono", monospace; 
+    text-align: center;
+}
+
 .title {
     color: #ffffff; 
     font-family: "Roboto Mono", monospace; 
