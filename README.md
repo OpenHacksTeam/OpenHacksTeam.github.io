@@ -2,6 +2,8 @@
 
 Video with more information: https://www.youtube.com/watch?v=h-twz_jiYGo
 
+Check out our website! https://openhacksteam.github.io/
+
 
   During these unfortunate events, thousands have lost their lives. According to the New York Times, at least 300,000 people have died and over five million people have been infected. Moreover, over 30 million people have lost their jobs just in the United States. As a result, homelessness and poverty rates have increased dramatically, inducing an even higher wealth inequality. Team 1729x wanted to do something about this. To tackle this problem, over the past day, we brainstormed ideas and finalized and implimented one. 
   
